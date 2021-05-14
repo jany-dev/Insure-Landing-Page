@@ -140,3 +140,8 @@ font-size: 16px;
   position: absolute;
 bottom: 0;
 }
+
+@media only screen and (max-width: 768px) {
+.nav_links li{
+  width: 12rem;
+}
